@@ -11,9 +11,15 @@
 
 
 ## Environment
+
 alembic              1.12.0
+
 SQLAlchemy           2.0.21
+
 psycopg2             2.9.9
+
 Python 3.11.5
+
 Darwin Shubhendras-MacBook-Pro.local 23.0.0 Darwin Kernel Version 23.0.0: Fri Sep 15 14:43:05 PDT 2023; root:xnu-10002.1.13~1/RELEASE_ARM64_T6020 arm64
+
 macOS Sonoma 14.0
